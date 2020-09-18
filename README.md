@@ -3,8 +3,8 @@
 ### view result here [Link](https://ajax-exemple.herokuapp.com/)
 
 * ### [The application's features](#the-applications-features-)
-* ### [Development process](#development-process-)	
-* ### [Programming concepts applied](#programming-concepts-applied-)
+* ### [Development process](#development-process)	
+* ### [Programming concepts applied](#programming-concepts-applied)
 
 # The applications features :
 
