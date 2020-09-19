@@ -54,7 +54,7 @@ ul{
 	line-height: 30px;
 }
 
-@media screen and (max-width: 764px){
+@media screen and (min-width: 764px){
 	#movies{
 		grid-template-columns: auto auto auto;
 		
