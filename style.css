@@ -53,3 +53,11 @@ ul{
 	padding: 20px;
 	line-height: 30px;
 }
+
+@media screen and (max-width: 764px){
+	#movies{
+		grid-template-columns: auto auto auto;
+		
+	}
+	
+}	
